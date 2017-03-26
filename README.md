@@ -3,7 +3,7 @@ Block Chain based transaction verifier which we built for clashhacks 2017 in the
 # Features 
  Built to prevent delivery to wrong person.
  # 
- Denial Of Delivery.
+ Denial Of Delivery by customer.
  #
  Privacy Issues.
  #
